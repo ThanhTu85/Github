@@ -1,0 +1,9 @@
+Hướng dẫn cài đặt Internet Download Manager (có video hướng dẫn cụ thể trên bài viết)
+
+Anh em vào trang chủ của Internet Download Manager https://www.internetdownloadmanager.com down file cài đặt về rồi cài đặt bình thường nhé.
+Sau khi cài đặt, anh em khởi động lại trình duyệt, có thể nó sẽ yêu cầu bật extension cho Chrome hoặc Edge, anh em nhớ bật nhé, bước này rất quan trọng vì nó cho phép bắt link trên trình duyệt.
+Unzip file IDM Activation.zip vừa download về (pass của file zip là: bimat). 
+Lưu ý: 
+Nếu file Activation.cmd bị phần mềm diệt virus bắt (thằng diệt virus nó sẽ bắt mọi script được download từ internet xuống, chứ nếu script này nằm sẵn ở ổ cứng, thì quét đi quét lại nó cũng không bắt) thì anh em đổi tên Activation.txt thành Activation.cmd rồi chạy bình thường. Ngoài ra, anh em có thể dùng Notepad kiểm tra nội dung file Activation nếu muốn.
+Chạy file Activation.cmd, chọn 1 để kích hoạt sau đó đợi một tý rồi chọn 6 để quit (xem clip trên group đã hướng dẫn chi tiết).
+Sau khi cài đặt anh em sẽ có bản quyền vĩnh viễn, update phà phà (có bản mới cứ update nhé, không sợ gì). Nếu anh em nào bị mất bản quyền hoặc bị báo fake serial gì đó thì chỉ cần chạy lại file Activation.cmd một lần nữa là OK.
